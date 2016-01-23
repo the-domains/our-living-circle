@@ -1,7 +1,7 @@
 name: Our Living Circle
 favicon: null
-layout_spectrum: 0.0470683912280947
-typography_spectrum: 0.9980907388962805
+layout_spectrum: 1
+typography_spectrum: 0.73926
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#99c449'
+    - '#89ac46'
+    - '#ffffff'
+    - '#99c448'
+    - '#9ec651'
   brandStrength: 0.8813147735781968
   lightness: 0.3075308764819056
   saturation: 0.6616532728075981
